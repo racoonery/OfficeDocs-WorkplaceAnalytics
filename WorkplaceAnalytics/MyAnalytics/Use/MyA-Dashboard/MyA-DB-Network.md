@@ -37,7 +37,7 @@ Percentage of contact's emails that you read
 
 #### Response time
 
-The average time it takes you to response to contact's email
+The average time it takes you to respond to the contact's email
 
 #### 1:1 meetings
 
